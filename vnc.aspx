@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="vnc.aspx.cs" Inherits="FuseCP.Providers.Virtualization.NoVNC.vnc"
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="vnc.aspx.cs" Inherits="FuseCP.Providers.Virtualization.NoVNC.Vnc"
 	EnableTheming="False" StylesheetTheme="" Theme="" %>
 
 <DOCTYPE html>

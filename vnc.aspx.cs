@@ -14,7 +14,7 @@ using System.Text.RegularExpressions;
 
 namespace FuseCP.Providers.Virtualization.NoVNC
 {
-    public partial class vnc : System.Web.UI.Page
+    public partial class Vnc : System.Web.UI.Page
     {
         public const string DEFAULT_PAGE = "~/Default.aspx";
         public const string PAGE_ID_PARAM = "pid";

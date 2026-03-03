@@ -11,7 +11,7 @@
 namespace FuseCP.Providers.Virtualization.NoVNC {
     
     
-    public partial class vnc {
+    public partial class Vnc {
         
         /// <summary>
         /// headHtml control.
